@@ -6,6 +6,7 @@ I'm working on learning about front-end development with a certification from Me
 <img align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 <img align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rhernandez0319&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
